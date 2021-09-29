@@ -39,9 +39,27 @@ The website is hard to navigate and needs major improvements in terms of informa
 
 ### Heuristic Evaluation
 #### #1 Visibility of System Status
+
 <p align="center">
-  <img src="../A1-0.png" alt="Survey Progress" height = "300px"/>
-</p>
+<img src="./A1-1.png" alt="Survey Progress" width = "650px"/>
+
+**Good**: The system shows the user their current status by highlighting their state on the top of the survey (step1) and by expliciting labelling the organizational order of many nested menu options that result in this final web page. These visual feedback communicate clearly to the users where they are.
+
+<p align="center">
+<img src="./A1-2.png" alt="Search Bar" width = "150px"/>
+
+
+**Bad**: This search bar does not respond to the users typing as options are not immediately displayed as is with the industry standard. This can confuse the user – they may think that the search bar does not work or that the website does not have the information they are desiring.
+**Severity**: 2
+**Recommendation**: Display results as the user is typing; this way users can receive immediate feedback that engages them to continue to trust and explore the website.
+
+
+
+
+
+
+
+
 
 
 
