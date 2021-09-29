@@ -180,18 +180,22 @@ The website is hard to navigate and needs major improvements in terms of informa
   * **Severity**: 2
   * **Recommendation**: Make the FAQ a separate menu option. 
  
+ 
+ 
+ 
 
-## Website 1: [Arizona Early Intervention Program](https://des.az.gov/services/disabilities/developmental-infant) 
+## Website 2: [Health-e-Arizona Plus Portal](https://www.healthearizonaplus.gov/Login/Default)
 ### Description: 
-Arizona Early Intervention Program is a statewide interagency system of services for families of infants and toddlers with disabilities or delays. Through this website, potentially eligible families can apply for the early intervention services through a family survey, while other family members, professionals, or friends/neighbors can refer children and families to the service through an online referral application system. 
+The Health-e-Arizona Plus Portal is an online application for Arizona Residents. It connects individuals and families to coverage, benefits, and services such as nutrition benefits, medical coverage, and cash assistance. Here, applicants can submit applications, view receipts, renew, and manage benefits. There are 3 main user groups: individuals and families (main applicants), state workers (staff), and community assistors (who help applicants with their application). 
 
 ### Why I chose this website:
-This website aligns with my interest in creating products that will help provide services and support for families with special needs. Like most government websites, it carries a huge information burden to explain their program mission and introduce their service to different targeted audiences, while ensuing paths to each actionable item (e.g., survey, referral, etc). The way information is structured, contained, and addressed to different parties on this website will be a reference for my final project. 
+I am interested in evaluating this website because it is a straightforward portal that connects families to many government services. The functionality and interactivity of this web-app may inspire the details of my project and how I want to create a space where families can perfume all needed government actions, whether that be paying taxes, applying for benefits, or signing up for programs.  
 
 ### Overall Evaluation:
-The website is hard to navigate and needs major improvements in terms of information structure, visual design, and interactivity. I am overwhelmed by the amount of information and visual elements clustered on the landing page. The page feels visually burdening with all the strong blues from header to footer to the abundant list of links. Key actionable items are hard to decipher from other information clutter. Overall, I would say the user experience on this website is lacking and confusing. 
+The website is extremely colorful, and again visually overwhelming. The portal offers a range of services that is organized in a grid/card format for new applicants and applicants with existing accounts. The interlinkage between these services is not very intuitive; there are better ways to design the user experience by creating clearer interactions and slowly progressing the user to their desired service rather than throwing everything into their plate. 
 
 ### Heuristic Evaluation
+ 
 ### #1 Visibility of System Status
 
 <p align="center">
