@@ -53,10 +53,29 @@ The website is hard to navigate and needs major improvements in terms of informa
 **Severity**: 2
 **Recommendation**: Display results as the user is typing; this way users can receive immediate feedback that engages them to continue to trust and explore the website.
 
+#### #2 Match Between System and the Real World
+ 
+<p align="center">
+<img src="./A2-0.png" alt="Sidebar Menu" width = "150px"/>
+  
+**Good**: The menu options are written in the users' language. Topic words are intuitive, short, and avoids hard jargon.
 
+<p align="center">
+<img src="./A2-1.png" alt="Refer Button" width = "150px"/>
 
+**Bad**: This button, to one of the two most key actionable items through this website, is very confusing – it does not work the existing user mental models on what actionable buttons should look like. The icon and the header (which is in very similar color to clickable menu items right above it) repeat the same call-to-action, making it unintuitive which one is clickable, and which isn’t. When switching between the sidebar menu options, this icon may disappear for some pages and reappear for others. 
+**Severity**: 3
+**Recommendation**: Make it an actual button below without the visual noises of the pictures and fancy fonts. If the copy on the button is going to be the same as the header, deleting the header will eliminate the confusion. Let the icon stay in the same position for all pages (do not have it disappear and reappear).
 
+#### #3 User Control and Freedom
 
+<p align="center">
+<img src="./A3-0.png" alt="Survey StartPage" width = "450px"/>
+<img src="./A3-1.png" alt="Survey StartPage" width = "450px"/>
+
+**Bad**: This is the design of where users begin their referral application. There is only one button to move forward 
+**Severity**: 3
+**Recommendation**: Add a cancel button at the starting page of the survey and add a back button as the users are progressing through the steps of the survey to ensure that users are not stuck. 
 
 
 
