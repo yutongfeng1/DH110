@@ -4,4 +4,4 @@ A collection of my projects for DH110 Fall 2021.
 
 Week | Assignment
 -- | --
-1 | [A01](assignment01/A01.md)
+1 | [A01 Heuristic Evaluation](assignment01/A01-Heuristic_Evaluation.md)
