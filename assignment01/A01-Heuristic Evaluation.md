@@ -4,7 +4,9 @@ Yutong Feng | DH110 | Fall 2021
 ## Assignment01: Heuristic Evaluation
 
 ### Project description:
-During the COVID19 pandemic, many families have been struggling due to financial difficulties, plagued with medical bills and risk of unemployment. Through a brief navigation of the Arizona State Government websites, I found that help and resources are too hard to find. Online services and applications are already limited enough; when hidden in menu options or designed in hidden corners where users will likely not see, the design blocks families from the assistance that they need and deserve. For this class, I would be interested in creating a portal for families, where all government documents, applications, services, and benefits can be managed in one space. 
+During the COVID19 pandemic, many families have been struggling due to financial difficulties, plagued with medical bills and risk of unemployment. Through a brief navigation of the Arizona State Government websites, I found that help and resources are too hard to find. Online services and applications are already limited; when hidden in menu options and designed in hidden corners with unintuitive interactions, the design blocks families from the assistance that they need. 
+
+I am interested in creating a portal for families, where all government documents, applications, services, and benefits can be managed in one space. By evaluating the UI/UX design of two government websites that entail such services, I will be able to collect inspiration and reference points for my own design.
 
 ### Severity Ratings in Heuristic Evaluation by [Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
 | Rating | Description |
