@@ -28,6 +28,10 @@ During the COVID19 pandemic, many families have been struggling due to financial
 | #10 | Help and documentation | Can help be easily found? Are documentation and steps to completion presented at the required contexts? 
 
 ## Website 1: [Arizona Early Intervention Program](https://des.az.gov/services/disabilities/developmental-infant) 
+
+<p align="center">
+<img src="./ACover.png" alt="Landing Page" width = "450px"/>
+ 
 ### Description: 
 Arizona Early Intervention Program is a statewide interagency system of services for families of infants and toddlers with disabilities or delays. Through this website, potentially eligible families can apply for the early intervention services through a family survey, while other family members, professionals, or friends/neighbors can refer children and families to the service through an online referral application system. 
 
@@ -41,7 +45,7 @@ The website is hard to navigate and needs major improvements in terms of informa
 ### #1 Visibility of System Status
 
 <p align="center">
-<img src="./A1-1.png" alt="Survey Progress" width = "650px"/>
+<img src="./A1-1.png" alt="Survey Progress" width = "500px"/>
 
 * **Good**: The system shows the user their current status by highlighting their state on the top of the survey (step1) and by expliciting labelling the organizational order of many nested menu options that result in this final web page. These visual feedback communicate clearly to the users where they are.
 
@@ -74,8 +78,8 @@ The website is hard to navigate and needs major improvements in terms of informa
 ### #3 User Control and Freedom
 
 <p align="center">
-<img src="./A3-0.png" alt="Survey StartPage" width = "450px"/>
-<img src="./A3-1.png" alt="Survey Page1" width = "450px"/>
+<img src="./A3-0.png" alt="Survey StartPage" width = "350px"/>
+<img src="./A3-1.png" alt="Survey Page1" width = "350px"/>
 
 * **Bad**: The image on the left is the design of where users begin their referral application. There is only one button to move forward - the button at the end of the page that reads "Next". Similarily, the image on the right is when users are the middle of filling in their application. Here, there is also only one "Next" button. Users are not given the choice to go back to previous pages to check their information, nor are they given the choice to exit altogether. They have to rely on buttons of their browser to go back.  
 
@@ -88,8 +92,8 @@ The website is hard to navigate and needs major improvements in terms of informa
 * **Good**: All clickable links are consistently in blue and underlined by hovered. 
 
 <p align="center">
-<img src="./A4-0.png" alt="English Version" width = "450px"/>
-<img src="./A4-1.png" alt="Spanish Version" width = "450px"/>
+<img src="./A4-0.png" alt="English Version" width = "350px"/>
+<img src="./A4-1.png" alt="Spanish Version" width = "350px"/>
 
 * **Bad**: The design of the website in terms of the call-to-action button and the information architecture is inconsistent between the two language versions. It has not achieved internal consistency. The two buttons are of different sizes, some jargons were explained in the Spanish version, and the “AzEIP Updates” sections are of two different styles. 
 
@@ -106,7 +110,7 @@ The website is hard to navigate and needs major improvements in terms of informa
 
   * **Severity**: 2
 
-  * **Recommendation**: If there is a preferred format for the data-entry, only give users the tools to easily answer in the given format. For example, giving them a hover selector to choose available weekdays and another to choose the time. 
+  * **Recommendation**: If there is a preferred format for the data-entry, it should give users the tools to easily answer in the given format; for example, a text-box entry system where users phone number will be automatically filled-in such format. For example, giving them a hover selector to choose available weekdays and another to choose the time. 
 
 <p align="center">
 <img src="./A5-1.png" alt="Users' Choice of Identity" width = "300px"/>
@@ -185,6 +189,10 @@ The website is hard to navigate and needs major improvements in terms of informa
 
 
 ## Website 2: [Health-e-Arizona Plus Portal](https://www.healthearizonaplus.gov/Login/Default)
+
+<p align="center">
+<img src="./BCover.png" alt="Landing Page" width = "450px"/>
+ 
 ### Description: 
 The Health-e-Arizona Plus Portal is an online application for Arizona Residents. It connects individuals and families to coverage, benefits, and services such as nutrition benefits, medical coverage, and cash assistance. Here, applicants can submit applications, view receipts, renew, and manage benefits. There are 3 main user groups: individuals and families (main applicants), state workers (staff), and community assistors (who help applicants with their application). 
 
