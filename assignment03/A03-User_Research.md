@@ -22,9 +22,11 @@ Limitations in the in-person solution arise due to COVID-19 and the fact that it
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
 I will focus on new-grad individuals who are looking for additional financial support post graduation. As they may move out of their families or college shared-homes, rent and other additional living fees are a burden to their usually low-to-medium range income as they are starting out in beginner work positions. They would be interested in understanding how they could utilize government support programs and receive such help in terms of financial, medical, or nutritional benefits. 
- * Demographics: New-Grad (undergraduate, grad school, or PhD students). Age: 21-30. Occupation: New-Grad, Beginner level work position. New to the job market, live alone or with roommates in big urban cities with high living costs. 
- * Frequently use laptop or smartphone to browse information online. Tech Savvy. 
- * Looking for additional financial support or benefits. To certain extents, availability and accessbility of great financial benefits may inform their decisions to move around the country for work and a living.
+ * Demographics: new-grad (undergraduate, grad school, or PhD students). 
+ * Age: 21-30. Live alone or with roommates in big urban cities with high living costs. 
+ * Occupation: Beginner level work position. New to the job market.
+ * Tech Savvy. Frequently use laptop or smartphone to browse information online.
+ * Looking for additional financial support or benefits. To a certain extend, the availability and accessbility of financial benefits may inform their decisions to move around the country for work and a living.
  * Expertise: users should not need any particular level of expertise
 
 #### In which context (where, why) would the users do that activity? 
@@ -56,6 +58,18 @@ The user was recruited as she was fitting to the target user demographic and had
  * [Interview Recording](https://drive.google.com/file/d/1Ea2lf7KfFFBBlSAgAVyF-PVUbBFhF7aO/view?usp=sharing)
  * [Full Transcript](https://docs.google.com/document/d/1SLJVmYOoL1fhyDXVWTNO9fGIPA--YuiqC6itnEltJCo/edit)
 
-### Interesting insights and findings from the interview:
+### Interesting insights from the interview:
+#### 1️⃣ In terms of her general experience and attitude towards government websites, the user perceives a strong correlation between aesthetically pleasing UI and security/legitimacy (10:42)
+ > Usually the layout is pretty outdated, ugly looking, and at the same time interaction isn't super clear. It is not pretty and I don't like interacting with it - it only does the bare minimum. I don't feel very secure either, feels like it's going to get hacked. I am usually not comfortable with sharing my personal information. Though I know it has nothing to do with how pretty it is and how safe it is, somehow in my mind I just make that correlation. It also makes me feel like I'm not very important, and sometimes I feel like they don't work at all. 
+
+#### 2️⃣ User feels extremely overwhelmed not only by the amount of information available, but also the fact that some information are only made available to the user in later steps. (18:25)
+ > (After jumping to the [Arizona Self Help Website](arizonaselfhelp.org) from [The Arizona Department of Economic Security Website](https://des.az.gov/), the user finds herself frustrated with the lack of organization in this information finding process). This doesn't look legit at all. Actually, I feel bad for people doing research about this. Ok, look like I need to bring stuff for an eligibility interview. Like, ok, didn't know that existed. I would love to have something to say what is the progress, because currently I just feel like things are getting thrown at me. 
+
+#### 3️⃣ User loves the screening tool but wish it was included in the main page as an easy transparent filter (28:44)
+ > There's something with making these filters more transparent. Like, at least something I can read immediate on this website about my eligibility for all the benefit programs. Maybe a table to list all benefit programs and eligiblity, for example, what is the income range that is eligible for each program. That would be super helpful so I don't have to go through the screening process and already know what I want. I can just go ahead and click on the application page and select the program. 
+
+#### 4️⃣ User is dissatisfied with the time she spent on these two tasks, feeling like all was too inefficient and redundant. (30:32)
+ > I would have liked to spend less time to learn about these information in a more concise manner. I would like to have an overview of the steps, and very transparently know whether I am eligiblity for certain programs or not on just one website. I feel like there were a lot of jumping around, and don't really like that fact that all the websites were scattered around. It is really redundant in what each website is trying to do. 
 
 ## :white_check_mark: Step 6: Reflection
+Though coming up with the contextual inquiry script was difficult as it was hard to think of generic yet targeted questions about the user's context, I enjoyed how we had more freedom to discuss feelings and ideas during the activity compared to the more serious or formal Usability Testing. The fact that the user will not fail or succeed in a task on certain preset metrics made the session more relaxing for me to prompt questions, get to understand what they like, and stop them in the middle of tasks to more finely ask about what they just said. It was nice to see how the user would navigate the task without any direction in their own way and in an environment that is most natural. The usability testing felt forced and there was always an element where the user wanted to succeed in the task to please the moderator. I am glad that I chose to take on a more passive role during the observation activities as I just watched the user freely explore the websites while expressing her thoughts. I always thougth that asking the right questions was the only way to gain insights on the user's experience, however after this research sessions I realized that by just simply observing the user in their "natural habitat" without any biased intervention, insights, left unpolluted by our previous assumptions or subjective experience, can be brought to light. 
