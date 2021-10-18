@@ -40,15 +40,22 @@ The goal of the users would be to find out what financial benefit programs they 
 ## :white_check_mark: Step 3: Pick Research Methods
 #### Methods
 I decided to use a combination of participatory observation and interview.
-For participatory observation, I observed 2 activities: **searching** for existing benefit programs and **evaluating** a program to apply for. 
- * Searching for financial support programs online: how would the user find out about the existing financial benefit programs? How would the user digest the information about each available benefit?
- * Evaluating a program to apply for: how would the user evaluate the programs and decide on which one best matches their needs? How would the user find out their next steps? How would the user begin the application?
+ * For participatory observation, I observed 2 activities: **searching** for existing benefit programs and **evaluating** a program to apply for. 
+   * Searching for financial support programs online: how would the user find out about the existing financial benefit programs? How would the user digest the information about each available benefit?
+   * Evaluating a program to apply for: how would the user evaluate the programs and decide on which one best matches their needs? How would the user find out their next steps? How would the user begin the application?
+
+ * For the interview, I prepared questions that asked the user about their habits in browsing, searching, acessing, and understanding government information or benefit programs online. Some questions also targeted their general attitude and experience with government websites, filing government applications, as well as reading and digesting huge chunks of information.
 
 The user was recruited as she was fitting to the target user demographic and had some previous experience working with government websites (i.e., in terms of working with taxes and visa). Since these two activities are and can be located in an online context (considering the current solution of accessing official government informative websites), this was conducted in the user’s own home through an online video call. I used Zoom to record the tasks the user has performed and a laptop camera to record the user’s facial expressions. I also made pen-and-paper of interesting points the participant made during the interview.
 
-For the interview, I prepared questions that asked the user about their habits in browsing, searching, acessing, and understanding government information or benefit programs online. Some questions also targeted their general attitude and experience with government websites, filing government applications, as well as reading and digesting huge chunks of information.
 
 ## :white_check_mark: Step 4: Observation/Interview Guide
-[Interview Script](
+ * [Interview Script](https://docs.google.com/document/d/1r5eKP1WXalmIEyluIvUH4Xd-ULg2osDzWpJLeRwhZiY/edit?usp=sharing)
 
+## :white_check_mark: Step 5: Conducting the Research
+ * [Interview Recording](https://drive.google.com/file/d/1Ea2lf7KfFFBBlSAgAVyF-PVUbBFhF7aO/view?usp=sharing)
+ * [Full Transcript](https://docs.google.com/document/d/1SLJVmYOoL1fhyDXVWTNO9fGIPA--YuiqC6itnEltJCo/edit)
 
+### Interesting insights and findings from the interview:
+
+## :white_check_mark: Step 6: Reflection
