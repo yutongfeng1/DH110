@@ -11,10 +11,12 @@ Low-fidelity prototyping is designed to visualize and test the structural conten
 3. Bookmark Programs
 
 ### Wireframes and Wireflow
-
+<p align="center">
+<img src="./wireframeflow.jpg" alt="wireflow of how these three tasks tie-in together" width = "850px"/>
 
 ### Prototype Testing
-
+<p align="center">
+<img src="./prototypetest.jpg" alt="how the user interacts with the low-fi prototype" width = "850px"/>
 
 
 #### User Feedback
