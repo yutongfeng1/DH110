@@ -18,9 +18,11 @@ Low-fidelity prototyping is designed to visualize and test the structural conten
 <p align="center">
 <img src="./prototypetest.jpg" alt="how the user interacts with the low-fi prototype" width = "850px"/>
 
+  
 
-#### User Feedback
+### User Feedback
 
 
 
 ### Reflection
+
