@@ -9,3 +9,4 @@ Week | Assignment
 3 | [A03 User Research](assignment03/A03-User_Research.md)
 4 | [A04 Persona](assignment04/A04-Persona.md)
 5 | [A05 LowFi Prototype](assignment05/A05-LowFiPrototype.md) 
+6 | [A06 Interface Design](assignment06/A06-InterfaceDesign.md)
