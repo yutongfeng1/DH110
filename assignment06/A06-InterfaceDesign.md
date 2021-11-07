@@ -43,27 +43,36 @@ With the intention to accentuate that this website is not outdated, I definitely
 <img src="./Shape Variations.jpg" alt="Different roundness of buttons and cards" width = "850px"/>
 
 #### Color & Accessibility Check
-In order to stress that this is an Arizona state government website, I googled to find the Arizona State Colors which were Blue in #002868 and Orange in #CE5C17. To establish that legitimacy as a state-run and approved website, it was definitely essential that the website contained similar colored elements. Therefore, I found a similar shade of blue #00245D that would be the primary accent color of the light theme and decided to use orange #BD4B2A for all error states. My intention is to create a clean and streamedline feel to the interface. The colors were mostly in blues and greys to avoid extra visual noise. The dark theme was created following guidelines of material design that involved placing black and white frames on top of colors in different opacities to transfer from light-dark and vice versa. Of course, as a government website, accessibility is a significant concern - all color combinations are tested for to ensure they are above the 4.5:1 ratio, with the exception that disabled state for buttons (disabled states for buttons in material design and iOS systems similarly do not pass contrast tests either). 
+In order to stress that this is an Arizona state government website, I googled to find the Arizona State Colors which were Blue in #002868 and Orange in #CE5C17. To establish that legitimacy as a state-run and approved website, it was definitely essential that the website contained similar colored elements. Therefore, I found a similar shade of blue #00245D that would be the primary accent color of the light theme and decided to use orange #BD4B2A for all error states. My intention is to create a clean and streamedline feel to the interface. 
+
+The colors were mostly in blues and greys to avoid extra visual noise. The dark theme was created following guidelines of material design that involved placing black and white frames on top of colors in different opacities to transfer from light-dark and vice versa. Of course, as a government website, accessibility is a significant concern - all color combinations are tested for to ensure they are above the 4.5:1 ratio, with the exception that disabled state for buttons (disabled states for buttons in material design and iOS systems similarly do not pass contrast tests either). 
   
 <p align="center">
 <img src="./Colors.jpg" alt="Light and Dark Color Theme" width = "850px"/>
 
 ### Final Style Guide
-This is the final result of a style guide. 
+This is the final result of a style guide with the final design choices from previous iterations compiled into one.
+A Brief Run Down:
+ * Layout: 6x6 with 12px gutter 100x margin.
+ * Shapes: 24px roundness
+ * Font: New York and DM Sans
+ * Color: Presentative of Arizona however clean and mostly of low saturation. Color combinations are tested and the color contrasts were all accessible. 
+
 <p align="center">
 <img src="./StyleGuide.jpg" alt="Design Style Guide of Interface" width = "850px"/>
  
 ### Impression Test Feedback
 I wanted feedback from users I previously recruited for my user interviews to see if these interfaces were aligned with their mental concepts of what constitutes as a modern, safe, and trustworthy government website that provides them with high-functioning and desirable tools. 
   
-I asked the user who participated in the usability testing interact with the prototype link, to which they responded with a few points of feedback:
+I asked the user who participated in the usability testing interact with the prototype link, to which they responded with a few points of feedback. I quote:
   * Definitely see how the color scheme is fitting to the legitimacy and professionality of the website. Very clean and organized so even if it's covered in information, I don't feel too heavily weighted. 
   * I am assuming these pictures were just randomly placed here and not to reflect the actual government-approved benefit pictures. I wonder if the messy original pictures would blend with this minimalistic style because I know the pictures were full of human profiles and highly saturated - like the apple for this food benefit I remember that was full of red and green and blues. 
   * I wish the prototype could show more states like when I hover over the button, will it change to a color?
   * I like the ways these buttons work with different overlay areas. Information feel well-coordinated because I see here compare programs only come after eligibility filter. 
  
-**Conclusion**: Overall, the user really appreciated how clean the entire interface looked. The user said it was very satisfying to see a government website without visual noises, and thought the ideas of making these features into overlay windows was a great choice of design that avoided overwhelming the user. The user suggested more improvements on the interactive prototype such that it can reflect the feedback of the system (e.g., different states of the button) and asked to consider whether a more coherent visual guideline was needed for the profile pictures of each benefit to fit the greater theme. The user reported feeling "sense of security" from this interface and recognizes at first impression that it is a "legit government website". 
-
+**Summary:**
+Overall, the user reported feeling "sense of security" from this interface and recognizes at first impression that it is a "legit government website". The user really appreciated how clean the entire interface looked. The user said it was very satisfying to see a government website without visual noises, and thought the ideas of making these features into overlay windows was a great choice of design that avoided overwhelming the user. 
+The user suggested more improvements on the interactive prototype such that it can reflect the feedback of the system (e.g., different states of the button) and asked to consider whether a more coherent visual guideline was needed for the profile pictures of each benefit to fit the greater theme. 
   
 
 
