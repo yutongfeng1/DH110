@@ -13,26 +13,28 @@ The purpose of this high-fidelity interactive prototype is to not only test the 
 
 After creating the basis of the interface designs, I created the high-fidelity wireflows with the Figma Autoflow plug-in for the two main tasks: eligibility filter and compare programs filter. After having the wireflow for these two tasks layered out, I went ahead and created the interactive prototype via Figma prototyping. I linked all the frames together and tested the prototype a few times on my own. When I found a certain problem in the interactions or a certain dead-end, I went back and edited/added interactions needed to make sure the user would not get lost in the flow. After this self-evaluation stage, I went on to conduct a cognitive walkthrough with my power user (participant from usability testing). After documenting the feedback I received from the user, I added necessary differentiation between pages and added screens to the flow where necessary to improve the clarify displayed by the interactive prototype. 
 
-## List of Tasks Supported
+### List of Tasks Supported
 The key tasks, validated by user research and extensive journey mapping of personas, are 
- 1) able to select programs only based on your elibility - Elibility Filter, 
-  2) able to compare and contrast programs at a glance - Compare Programs, 
-  3) able to mark programs to view for later - Bookmark. 
-
-The first two, as they are more of user value and significance to the user experience on the website, is more pronounced in the wireflow and interactive prototype. The bookmark function has not been designed into extensive detail with fleshed-out interactions
+ 1) to select programs only based on your elibility - Elibility Filter, 
+  2) to compare and contrast programs at a glance - Compare Programs, 
+  3) to mark programs to view for later - Bookmark. 
+ 
+ 
+ The first two, as they are more valuable and desirable, are the focus of this wireflow and interactive prototype, with its interactions and design more pronounced and detailed. The bookmark function has not been designed into extensive detail with fleshed-out interactions
 
 ## Prototype
+[Figma Design File](https://www.figma.com/file/JSKqJ6KhHVMF8IhV1pzBKE/DH110-A06?node-id=0%3A1)
 ### Interface
 
 <p align="center">
-<img src="./interface.jpg" alt="Different roundness of buttons and cards" width = "850px"/>
+<img src="./interface.png" alt="interface design of product" width = "850px"/>
 
 ### Wireflow
 
  <p align="center">
-<img src="./wireflow.jpg" alt="Different roundness of buttons and cards" width = "850px"/>
+<img src="./wireflow.png" alt="wireflow for the two tasks" width = "850px"/>
  
-### [Interactive Prototype on Figma](https://www.figma.com/proto/JSKqJ6KhHVMF8IhV1pzBKE/DH110-A06?page-id=0%3A1&node-id=50%3A486&viewport=241%2C48%2C0.25&scaling=contain&starting-point-node-id=50%3A486)
+### [Interactive Prototype](https://www.figma.com/proto/JSKqJ6KhHVMF8IhV1pzBKE/DH110-A06?page-id=0%3A1&node-id=50%3A486&viewport=241%2C48%2C0.25&scaling=contain&starting-point-node-id=50%3A486)
 
 ## Cognitive Walkthrough
 ### Process
