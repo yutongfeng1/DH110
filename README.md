@@ -11,3 +11,4 @@ Week | Assignment
 5 | [A05 LowFi Prototype](assignment05/A05-LowFiPrototype.md) 
 6 | [A06 Interface Design](assignment06/A06-InterfaceDesign.md)
 7 | [A07 Interactive Prototype)(assignment07/A07-InteractivePrototype.md)
+
