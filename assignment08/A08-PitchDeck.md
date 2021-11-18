@@ -13,8 +13,10 @@ The three key tasks, validated by user insights, are:
 
 Instead of experiencing the confusing workflow and having to jump between websites, users will be able to not only apply for these applications but to be informed of what each benefit entails on one website. Users will be able to select the information they are most interested in, view these information in a time-efficient and focused manner, and to be able to save and reaccess this information anytime.
 
-## Research
-### Competitive Analysis
+## Problem Statement
+HMW create a government portal for users to browse and apply for benefits in one place?
+
+## Competitor Analysis
 In this project, my design challenge is to improve the user experience for government portals. Through research, I find that there is an existing portal called [Health-e-Arizona Plus Portal](https://www.healthearizonaplus.gov/Login/Default). This is a website where applicants can apply for coverage, benefit programs, and government services, such as nutrition benefits, medical coverage, and cash assistance. Applicants are allowed to create accounts to submit applications, view receipts, renew and manage their existing benefits. In order to understand the current ecosystem, I decide it is essential that I heuristically evaluate this website and perform usability testings of key taskflows in order to have a grasp of what I have to do to improve the overall user experience. 
 
 <p align="center">
@@ -24,25 +26,23 @@ In this project, my design challenge is to improve the user experience for gover
 
 [Usability Testing](https://github.com/yutongfeng1/DH110/blob/0ef641679d63c68a6d013b29270ddebd4b8f8307/assignment02/A02-UT.md)
 
-### Contextual Inquiry
+## User Research: Contextual Inquiry
 xxxxx
 
-[View in Detail Here](https://github.com/yutongfeng1/DH110/blob/0ef641679d63c68a6d013b29270ddebd4b8f8307/assignment03/A03-User_Research.md)
+[read more...](https://github.com/yutongfeng1/DH110/blob/0ef641679d63c68a6d013b29270ddebd4b8f8307/assignment03/A03-User_Research.md)
 
-## Ideation
-### Persona
+## Storytelling: Persona and Journey Mapping
 
-### Scenario
+## Wireframing
+### Low-Fidelity Prototype and Wireflow
 
-### Wireframes
+### Graphic Design Variations
 
-### Wireflow
-
-### Design Variations
-
-### Interactive Prototype
+## High-Fidelity Prototype
 
 ## Usability Testing
 
-## Presentation Video
+## Pitch Presentation Video
+  
+## Conclusion
 
