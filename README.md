@@ -10,5 +10,5 @@ Week | Assignment
 4 | [A04 Persona](assignment04/A04-Persona.md)
 5 | [A05 LowFi Prototype](assignment05/A05-LowFiPrototype.md) 
 6 | [A06 Interface Design](assignment06/A06-InterfaceDesign.md)
-7 | [A07 Interactive Prototype)(assignment07/A07-InteractivePrototype.md)
-
+7 | [A07 Interactive Prototype](assignment07/A07-InteractivePrototype.md)
+8 | [A08 Pitch Demo](assignment08/A08-PitchDeck.md)
