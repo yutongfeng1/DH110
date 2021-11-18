@@ -20,7 +20,7 @@ HMW create a government portal for users to browse and apply for benefits in one
 ### Competitor Analysis
 In this project, my design challenge is to improve the user experience for government portals. Through research, I find that there is an existing portal called [Health-e-Arizona Plus Portal](https://www.healthearizonaplus.gov/Login/Default). This is a website where applicants can apply for coverage, benefit programs, and government services, such as nutrition benefits, medical coverage, and cash assistance. Applicants are allowed to create accounts to submit applications, view receipts, renew and manage their existing benefits. In order to understand the current ecosystem, I decide it is essential that I heuristically evaluate this website and perform usability testings of key taskflows in order to have a grasp of what I have to do to improve the overall user experience. 
 
-<img src="https://github.com/yutongfeng1/DH110/blob/def40afaffc86b3a9e5e92ff5810e0e98d004697/assignment01/BCover.png" alt="Landing Page" width = "480px"/>
+<img src="https://github.com/yutongfeng1/DH110/blob/def40afaffc86b3a9e5e92ff5810e0e98d004697/assignment01/BCover.png" alt="Landing Page" height = "480px"/>
   
 
 #### [Heuristic Evaluation](https://github.com/yutongfeng1/DH110/blob/def40afaffc86b3a9e5e92ff5810e0e98d004697/assignment01/A01-Heuristic_Evaluation.md)
@@ -33,21 +33,33 @@ In this project, my design challenge is to improve the user experience for gover
 
 [read more](https://github.com/yutongfeng1/DH110/blob/0ef641679d63c68a6d013b29270ddebd4b8f8307/assignment03/A03-User_Research.md)
 
+
 ## Storytelling
+
+
 ### Persona
+  
   
 ### Journey Mapping
 
+
 ## Wireframing
+
+
 ### Low-Fidelity Prototype and Wireflow
+
 
 ### Graphic Design Variations
 
+
 ## High-Fidelity Prototype
+
 
 ## Usability Testing
 
+
 ## Pitch Presentation Video
+  
   
 ## Conclusion
 
