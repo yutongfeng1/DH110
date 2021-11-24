@@ -155,13 +155,20 @@ With the Eligibility Filter and Compare Programs features most valuable and desi
 I performed four cognitive walkthroughs with a power user and with three other DH110 students during classtime. For each of their interactions with the prototype, I asked the questions: 1) Is this the outcome they expected to achieve?, 2) Did the user know how they could achieve the right outcome?, 3) Additional comments about the UI design. 
 
 The four users worked through the eligibility filter and compare programs features. Usability testing illuminate 5 key insights:
- ✅ Button copies are much clearer than ones propoesd earlier. The user is able to understand the outcome that can be achieve by these buttons.
- ✅ Users were able to achieve MVP taskflows for both tasks without error.
- ✅ Users interacted with the bookmark function and understood the hierarchy that exists with eligiblity filter being most valuable and the bookmark feature being less significant.
- 💔 3/5 Users dislike the layout of the compare programs page that lacks negative space, directionality, nor clear information hierarchy. 
- 💔 3/5 Users dislike the logo. Though they understand the need for a clean and legitimate label, they feel that the logo design does not match the minimalistic, light layout. 
+
+
+  ✅ Button copies are much clearer than ones propoesd earlier. The user is able to understand the outcome that can be achieve by these buttons.
  
- My take aways from the cognitive walkthrough allowed me to make ammendments to the design, such as upgrading the design of the logo with a more trendy-looking color gradient, reorganizing the layout of the compare programs page, and refining the prototype to reflect a viable product (e.g., adding additional screens in wireflows to make sure that users are located in the right pages and progress feedback is clean). 
+  ✅ Users were able to achieve MVP taskflows for both tasks without error.
+
+  ✅ Users interacted with the bookmark function and understood the hierarchy that exists with eligiblity filter being most valuable and the bookmark feature being less significant.
+
+  💔 3/5 Users dislike the layout of the compare programs page that lacks negative space, directionality, nor clear information hierarchy. 
+
+  💔 3/5 Users dislike the logo. Though they understand the need for a clean and legitimate label, they feel that the logo design does not match the minimalistic, light layout. 
+ 
+ 
+My take aways from the cognitive walkthrough allowed me to make ammendments to the design, such as upgrading the design of the logo with a more trendy-looking color gradient, reorganizing the layout of the compare programs page, and refining the prototype to reflect a viable product (e.g., adding additional screens in wireflows to make sure that users are located in the right pages and progress feedback is clean). 
 
 ## Pitch Presentation Video
 [View here on Youtube]
