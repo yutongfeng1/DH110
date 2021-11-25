@@ -148,7 +148,7 @@ With the Eligibility Filter and Compare Programs features most valuable and desi
 #### High-fidelity Interface
 <img src="https://yutongfeng1.github.io/DH110/assignment07/interface.png" alt="interface design of product" width = "850px"/>
 
-#### Wirefliow
+#### Wireflow
 <img src="https://yutongfeng1.github.io/DH110/assignment07/wireflow.png" alt="wireflow for the two tasks" width = "850px"/>
 
 #### [Interactive Prototype](https://www.figma.com/proto/JSKqJ6KhHVMF8IhV1pzBKE/DH110-A06?page-id=0%3A1&node-id=50%3A486&viewport=241%2C48%2C0.25&scaling=contain&starting-point-node-id=50%3A486)
@@ -176,7 +176,7 @@ The four users worked through the eligibility filter and compare programs featur
 My take aways from the cognitive walkthrough allowed me to make ammendments to the design, such as upgrading the design of the logo with a more trendy-looking color gradient, reorganizing the layout of the compare programs page, and refining the prototype to reflect a viable product (e.g., adding additional screens in wireflows to make sure that users are located in the right pages and progress feedback is clean). 
 
 ## Pitch Presentation Video
-[View here on Youtube]
+[View here on Youtube](https://youtu.be/DTm5v195iqg)
   
 ## Conclusion
 
