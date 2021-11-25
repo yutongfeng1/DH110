@@ -113,16 +113,21 @@ In the low-fi wireframing process, I laid out the basic skeleton, actionables, t
 
 #### Design Iterations
 Layout
+
 <img src="https://yutongfeng1.github.io/DH110/assignment06/Layout.jpg" alt="Layout Grid of the Screens" width = "850px"/>
 
 Typography
+
 <img src="https://yutongfeng1.github.io/DH110/assignment06/Font Variations.jpg" alt="Iterations on Typography" width = "850px"/>
 
 Shape
+
 <img src="https://yutongfeng1.github.io/DH110/assignment06/Shape Variations.jpg" alt="Different roundness of buttons and cards" width = "850px"/>
 
 Color
+
 <img src="https://yutongfeng1.github.io/DH110/assignment06/Colors.jpg" alt="Light and Dark Color Theme" width = "850px"/>
+
 
 #### Final Style Guide
 A brief run down:
