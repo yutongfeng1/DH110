@@ -7,7 +7,7 @@ During the COVID19 pandemic, many families have been struggling due to financial
 I am interested in creating a portal for families, where all government documents, applications, services, and benefits can be managed in one space. Through user research, competitive analysis, persona and journey mapping, I delivered an interactive prototype. This prototype was focused on three key actions to solve current usability problems and improve catastrophic interface problems on the landing page dashboard, where users can view at a glance all available benefit programs.
 
 The three key tasks, validated by user insights, are:
- * to select programs only based on your elibility - Elibility Filter,
+ * to select programs only based on your elibility - Eligibility Filter,
  * to compare and contrast programs at a glance - Compare Programs,
  * to mark programs to view for later - Bookmark.
 
