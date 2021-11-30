@@ -11,7 +11,7 @@ The three key tasks, validated by user insights, are:
  * to compare and contrast programs at a glance - Compare Programs,
  * to mark programs to view for later - Bookmark.
 
-Instead of experiencing the confusing workflow and having to jump between websites, users will be able to not only apply for these applications but to be informed of what each benefit entails on one website. Users will be able to select the information they are most interested in, view these information in a time-efficient and focused manner, and to be able to save and reaccess this information anytime.
+Instead of experiencing the confusing workflow and having to jump between websites, users will be able to not only apply for these applications but to be informed of what each benefit entails on one website. Users will be able to select the information they are most interested in, view these information in a time-efficient and focused manner, and to be able to save and reaccess this information anytime. 
 
 ## Problem Statement
 #### HMW create a government portal for users to browse and apply for benefits in one place?
@@ -161,16 +161,15 @@ I performed four cognitive walkthroughs with a power user and with three other D
 
 The four users worked through the eligibility filter and compare programs features. Usability testing illuminate 5 key insights:
 
-
-  ✅ Button copies are much clearer than ones propoesd earlier. The user is able to understand the outcome that can be achieve by these buttons.
+  ✅ Button copies are much clearer than ones proposed earlier. Users are able to understand the outcome that can be achieve by these buttons.
  
   ✅ Users were able to achieve MVP taskflows for both tasks without error.
 
   ✅ Users interacted with the bookmark function and understood the hierarchy that exists with eligiblity filter being most valuable and the bookmark feature being less significant.
 
-  💔 3/5 Users dislike the layout of the compare programs page that lacks negative space, directionality, nor clear information hierarchy. 
+  💔 3/4 Users dislike the layout of the compare programs page that lacks negative space, directionality, nor clear information hierarchy. 
 
-  💔 3/5 Users dislike the logo. Though they understand the need for a clean and legitimate label, they feel that the logo design does not match the minimalistic, light layout. 
+  💔 2/4 Users dislike the logo. Though they understand the need for a clean and legitimate label, they feel that the logo design does not match the minimalistic, light layout. 
  
  
 My take aways from the cognitive walkthrough allowed me to make ammendments to the design, such as upgrading the design of the logo with a more trendy-looking color gradient, reorganizing the layout of the compare programs page, and refining the prototype to reflect a viable product (e.g., adding additional screens in wireflows to make sure that users are located in the right pages and progress feedback is clean). 
